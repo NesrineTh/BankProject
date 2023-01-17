@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\Users\Lenovo\source\repos\Bank\csharp-cpp-java-bank-account\Bank\Domain\obj\Debug\netstandard2.0\Domain.pdb
